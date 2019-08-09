@@ -4,3 +4,5 @@ fastrtps: {ubuntu: []}
 urdfdom_headers: {ubuntu: []}
 # FIXME remove once https://github.com/eProsima/foonathan_memory_vendor/pull/9 is addressed
 FOONATHAN_MEMORY: {ubuntu: []}
+action_tutorials: {ubuntu: []}
+sqlite3_vendor: {ubuntu: []}
